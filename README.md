@@ -37,9 +37,6 @@
 [Apps to accompany textbook](https://whitlockschluter.zoology.ubc.ca/stats-visualizations)
 
 ### Miscellaneous
-
-some stats shiny apps gleaned from 
-@showmeshiny
  
 [Permutation tests](https://rosetta.ahmedmoustafa.io/permutation/)
 
@@ -57,4 +54,4 @@ some stats shiny apps gleaned from
 ## Thank you to:
 
 Hunter Glanz (@hglanz), Alisha Waller, Peter Miksza (@PeteMiksza), Vincent Nijs (@vrnijs), Nathan Brower (@lowbrowR), Aleeza Gerstein
-(@acgerstein)
+(@acgerstein), @showmeshiny
