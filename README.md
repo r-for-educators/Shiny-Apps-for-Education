@@ -39,16 +39,22 @@
 ### OHSU Shiny Apps for Teaching
 
 [Burro Data Explorer](https://github.com/laderast/burro) 
+
 Info page: https://laderast.github.io/burro/
 
 [Data Literacy LearnR (has some shiny apps)](https://github.com/laderast/dataLiteracyTutorial)
+
 see it at https://tladeras.shinyapps.io/dataLiteracyTutorial
 
 [A Visual Intro to Clustering (work in progress)](https://github.com/laderast/clusteringLecture) 
+
 See the demo here: http://tladeras.shinyapps.io/clusteringLecture/
 
 [DSIExplore LearnR Package (Ted Laderas and Jessica Minner)](https://github.com/laderast/DSIExplore): 
-See it here: https://tladeras.shinyapps.io/categoricalData/ and here: http://minnier.shinyapps.io/ODSI_continuousData/
+
+See it here: https://tladeras.shinyapps.io/categoricalData/ 
+
+and here: http://minnier.shinyapps.io/ODSI_continuousData/
 
 ### ShinyApps.org: Experience Statistics
 
@@ -57,6 +63,7 @@ See it here: https://tladeras.shinyapps.io/categoricalData/ and here: http://min
 ### SavvyStatistics.com: Cloud-based apps for teaching, by Sean MacKinnon
 
 [Collection of Apps](http://savvystatistics.com/cloud-based-apps-for-statistics-teaching/)
+
 (Also includes some non-Shiny options!)
 
 ### Miscellaneous
