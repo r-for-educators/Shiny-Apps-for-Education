@@ -38,10 +38,26 @@
 
 ### OHSU Shiny Apps for Teaching
 
-[Burro Data Explorer](https://github.com/laderast/burro) - Info page: https://laderast.github.io/burro/
-[Data Literacy LearnR (has some shiny apps)](https://github.com/laderast/dataLiteracyTutorial) - see it at https://tladeras.shinyapps.io/dataLiteracyTutorial
-[A Visual Intro to Clustering (work in progress)](https://github.com/laderast/clusteringLecture) See the demo here: http://tladeras.shinyapps.io/clusteringLecture/
-[DSIExplore LearnR Package (Ted Laderas and Jessica Minner)](https://github.com/laderast/DSIExplore): See it here: https://tladeras.shinyapps.io/categoricalData/ and here: http://minnier.shinyapps.io/ODSI_continuousData/
+[Burro Data Explorer](https://github.com/laderast/burro) 
+Info page: https://laderast.github.io/burro/
+
+[Data Literacy LearnR (has some shiny apps)](https://github.com/laderast/dataLiteracyTutorial)
+see it at https://tladeras.shinyapps.io/dataLiteracyTutorial
+
+[A Visual Intro to Clustering (work in progress)](https://github.com/laderast/clusteringLecture) 
+See the demo here: http://tladeras.shinyapps.io/clusteringLecture/
+
+[DSIExplore LearnR Package (Ted Laderas and Jessica Minner)](https://github.com/laderast/DSIExplore): 
+See it here: https://tladeras.shinyapps.io/categoricalData/ and here: http://minnier.shinyapps.io/ODSI_continuousData/
+
+### ShinyApps.org: Experience Statistics
+
+[Collection of Apps](https://shinyapps.org/)
+
+### SavvyStatistics.com: Cloud-based apps for teaching, by Sean MacKinnon
+
+[Collection of Apps](http://savvystatistics.com/cloud-based-apps-for-statistics-teaching/)
+(Also includes some non-Shiny options!)
 
 ### Miscellaneous
  
@@ -57,8 +73,12 @@
 
 [Exploring Distributions](http://www.statstudio.net/free-tools/dists/)
 
+[Quantitative Plots (Github repo by Stephanie Spielman)](https://github.com/spielmanlab/plot-iris)
+
 
 ## Thank you to:
 
 Hunter Glanz (@hglanz), Alisha Waller, Peter Miksza (@PeteMiksza), Vincent Nijs (@vrnijs), Nathan Brower (@lowbrowR), Aleeza Gerstein
-(@acgerstein), @showmeshiny
+(@acgerstein), @showmeshiny, Ted Laderas (@tladeras), Jessica Minner (@datapointier), Lorne Campbell (@LorneJCampbell), Stephanie Spielman (@stephspiel), Sean Mackinnon (@seanpmackinnon), Liz Eisenhauer (@LizEisenhauer)
+
+
