@@ -82,6 +82,8 @@ and here: http://minnier.shinyapps.io/ODSI_continuousData/
 
 [Quantitative Plots (Github repo by Stephanie Spielman)](https://github.com/spielmanlab/plot-iris)
 
+[Confidence Interval Coverage](https://istats.shinyapps.io/ExploreCoverage/)
+
 
 ## Thank you to:
 
