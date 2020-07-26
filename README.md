@@ -1,6 +1,9 @@
 # Shiny Apps for Education
  Collection of links and source code for stat education resources made in Shiny.
 
+### Gilad Feldman's Collection of Shiny apps, organized by topic
+
+[Wiki of Apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
 
 ### Cal Poly collection of apps for basic stat concepts
 
