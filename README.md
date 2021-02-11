@@ -69,6 +69,12 @@ and here: http://minnier.shinyapps.io/ODSI_continuousData/
 
 (Also includes some non-Shiny options!)
 
+### Book Of Apps for Statistics Teaching (BOAST)
+
+[Collection of Apps](https://shinyapps.science.psu.edu/) created by undergraduate students at Penn State University.
+
+[GitHub Repo](https://github.com/EducationShinyAppTeam/BOAST)
+
 ### Miscellaneous
  
 [Permutation tests](https://rosetta.ahmedmoustafa.io/permutation/)
